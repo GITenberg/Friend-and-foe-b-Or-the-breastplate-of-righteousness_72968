@@ -1,0 +1,37 @@
+_repo: Friend-and-foe-b-Or-the-breastplate-of-righteousness_72968
+_version: 0.0.1
+creator:
+  author:
+    agent_name: A. L. O. E.
+    aliases:
+    - A.L.O.E.
+    - Tucker, Charlotte Maria
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '31385'
+    url: http://www.gutenberg.org/2009/agents/31385
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
+description: ''
+gutenberg_issued: '2024-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72968'
+language: en
+pgterms:marc905: 20240207114531aloe
+pgterms:marc906: '1875'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bGall & Inglis, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Teenage girls -- Juvenile fiction'
+- !lcsh 'Household employees -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Righteousness -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Friend and foe : $b Or, the breastplate of righteousness'
+url: http://www.gutenberg.org/ebooks/72968
